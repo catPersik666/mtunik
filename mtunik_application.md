@@ -44,7 +44,7 @@
 
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ, ИНФОРМАЦИЯ О БД ]**
 
-*	Kotlin / Spring boot – для backend-разработки
+*	Intellij IDEA community edition / Spring boot – для backend-разработки
 *	HTML / CSS / JS – для разработки веб-версии
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
